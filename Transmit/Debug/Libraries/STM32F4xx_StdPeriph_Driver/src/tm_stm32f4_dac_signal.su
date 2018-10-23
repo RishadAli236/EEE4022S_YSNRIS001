@@ -1,0 +1,3 @@
+tm_stm32f4_dac_signal.c:1967:24:TM_DAC_SIGNAL_Init	32	static
+tm_stm32f4_dac_signal.c:2004:24:TM_DAC_SIGNAL_SetSignal	32	static
+tm_stm32f4_dac_signal.c:2027:24:TM_DAC_SIGNAL_SetCustomSignal	136	static
